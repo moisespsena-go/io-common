@@ -1,2 +1,2 @@
-# ioapi
+# io-api
 Golang IO interfaces

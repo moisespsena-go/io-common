@@ -3,6 +3,6 @@ package ioapi
 import "io"
 
 type ReadSeekCloser interface {
-  io.ReadSeeker
-  io.Closer
+	io.ReadSeeker
+	io.Closer
 }

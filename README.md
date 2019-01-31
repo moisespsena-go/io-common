@@ -1,2 +1,2 @@
-# io-api
-Golang IO interfaces
+# io-common
+IO common resources and API
